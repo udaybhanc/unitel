@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontello.eot?64093404');
+  src: url('../fonts/fontello.eot?64093404#iefix') format('embedded-opentype'),
+       url('../fonts/fontello.woff2?64093404') format('woff2'),
+       url('../fonts/fontello.woff?64093404') format('woff'),
+       url('../fonts/fontello.ttf?64093404') format('truetype'),
+       url('../fonts/fontello.svg?64093404#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fontello {line-height: 1.8;display:inline-block;font:normal normal normal 24px/1 "fontello";font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transform:translate(0, 0)  
+}
+ 
+
+.fontello-outgoing-sms:before { content: '\e800'; } /* '' */
+.fontello-manual-message:before { content: '\e801'; } /* '' */
+.fontello-chat:before { content: '\e802'; } /* '' */
+.fontello-ticket-broken:before { content: '\e803'; } /* '' */
+.fontello-chat-missed:before { content: '\e804'; } /* '' */
+.fontello-delete:before { content: '\e805'; } /* '' */
+.fontello-ppd-campaign:before { content: '\e806'; } /* '' */
+.fontello-account:before { content: '\e807'; } /* '' */
+.fontello-hashtag:before { content: '\e808'; } /* '' */
+.fontello-email:before { content: '\e809'; } /* '' */
+.fontello-country:before { content: '\e80a'; } /* '' */
+.fontello-phone:before { content: '\e80b'; } /* '' */
+.fontello-facebook-outbound:before { content: '\e80c'; } /* '' */
+.fontello-facebook-inbound:before { content: '\e80d'; } /* '' */
+.fontello-call-outbound:before { content: '\e80e'; } /* '' */
+.fontello-call-inbound:before { content: '\e80f'; } /* '' */
+.fontello-twitter-inbound:before { content: '\e810'; } /* '' */
+.fontello-twitter-outbound:before { content: '\e811'; } /* '' */
+.fontello-fontellodisposition:before { content: '\e812'; } /* '' */
+.fontello-incominig-sms:before { content: '\e813'; } /* '' */
+.fontello-mail-inbound:before { content: '\e814'; } /* '' */
+.fontello-mail-outbound:before { content: '\e815'; } /* '' */
+.fontello-blaster-campaign:before { content: '\e816'; } /* '' */
+.fontello-mobile-inapp:before { content: '\e817'; } /* '' */
+.fontello-facebook-messenger:before { content: '\e818'; } /* '' */
+.fontello-wechat:before { content: '\e819'; } /* '' */
+.fontello-mobile:before { content: '\e81a'; } /* '' */
+.fontello-location:before { content: '\e81b'; } /* '' */
+.fontello-gender:before { content: '\e81c'; } /* '' */
+.fontello-twitter:before { content: '\e81d'; } /* '' */
+.fontello-facebook:before { content: '\e81e'; } /* '' */
+.fontello-city:before { content: '\e81f'; } /* '' */
+.fontello-chat-campaign:before { content: '\e820'; } /* '' */
+.fontello-inbound-campaign:before { content: '\e821'; } /* '' */
+.fontello-interaction-campaign:before { content: '\e822'; } /* '' */
+.fontello-outbound-campaign:before { content: '\e823'; } /* '' */
+.fontello-web-chat:before { content: '\e824'; } /* '' */
+.fontello-anonymous-media:before { content: '\e825'; } /* '' */
+.fontello-twitter-direct:before { content: '\e826'; } /* '' */
+.fontello-viber-chat:before { content: '\e827'; } /* '' */
+.fontello-line-chat:before { content: '\e828'; } /* '' */
+.fontello-bullHorn:before { content: '\e829'; } /* '' */
+.fontello-heatMap:before { content: '\e82a'; } /* '' */
+.fontello-notification-bell:before { content: '\e82b'; } /* '' */
+.fontello-arrow-right:before { content: '\e82c'; } /* '' */
+.fontello-voicemail:before { content: '\e82d'; } /* '' */
+.fontello-alarm:before { content: '\e82e'; } /* '' */
+.fontello-app-config:before { content: '\e82f'; } /* '' */
+.fontello-announcements:before { content: '\e830'; } /* '' */
+.fontello-ticket:before { content: '\e831'; } /* '' */
+.fontello-confer:before { content: '\e832'; } /* '' */
+.fontello-transfer-outgoing:before { content: '\e836'; } /* '' */
+.fontello-transfer-incoming:before { content: '\e837'; } /* '' */
+.fontello-broadcast:before { content: '\e838'; } /* '' */
+.fontello-chat-floating:before { content: '\e839'; } /* '' */
+.fontello-customer-portal:before { content: '\e83a'; } /* '' */
+.fontello-system-config:before { content: '\e83b'; } /* '' */
+.fontello-acp:before { content: '\e83c'; } /* '' */
+.fontello-disconnect:before { content: '\e83d'; } /* '' */
+.fontello-logout:before { content: '\e83e'; } /* '' */
+.fontello-snoop:before { content: '\e83f'; } /* '' */
+.fontello-whisper:before { content: '\e840'; } /* '' */
+.fontello-barge:before { content: '\e841'; } /* '' */
+.fontello-missedchat:before { content: '\e842'; } /* '' */
+.fontello-missedcall:before { content: '\e843'; } /* '' */
+.fontello-split:before { content: '\e844'; } /* '' */
+.fontello-merge:before { content: '\e845'; } /* '' */
+.fontello-webchat-missed:before { content: '\e846'; } /* '' */
+.fontello-fbmessenger-missed:before { content: '\e847'; } /* '' */
+.fontello-genericchat-missed:before { content: '\e848'; } /* '' */
+.fontello-inappchat-missed:before { content: '\e849'; } /* '' */
+.fontello-system-generated:before { content: '\e84a'; } /* '' */
+.fontello-twitterdm-missed:before { content: '\e84b'; } /* '' */
+.fontello-reply:before { content: '\e873'; } /* '' */
+.fontello-dispose:before { content: '\e874'; } /* '' */
+.fontello-note:before { content: '\e875'; } /* '' */
